@@ -1,7 +1,7 @@
 # 🚀 Hi, I'm Vitio 123 | Hola, soy Vitio 123 🇵🇪
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Programador"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Programador"/>
 </div>
 
 ## 🧙‍♂️ About Me | Sobre mí 
