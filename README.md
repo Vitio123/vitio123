@@ -1,4 +1,4 @@
-🚀 Hi, I'm Vitio 123 | Hola, soy Vitio 123 🇵🇪
+#🚀 Hi, I'm Vitio 123 | Hola, soy Vitio 123 🇵🇪
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Programador"/>
 </div>
@@ -16,7 +16,6 @@ Show Image
 📊 Stats | Estadísticas:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitio123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitio123&theme=radical" alt="GitHub Streak" />
 </div>
 🌟 Projects | Proyectos:
 <table>
