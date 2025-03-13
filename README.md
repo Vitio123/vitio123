@@ -1,23 +1,32 @@
-#🚀 Hi, I'm Vitio 123 | Hola, soy Vitio 123 🇵🇪
+# 🚀 Hi, I'm Vitio 123 | Hola, soy Vitio 123 🇵🇪
+
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" alt="Programador"/>
 </div>
-🧙‍♂️ About Me | Sobre mí
-javascriptCopyconst vitio = {
+
+## 🧙‍♂️ About Me | Sobre mí 
+```javascript
+const vitio = {
   location: "Peru | Perú 🇵🇪",
   passion: "Transforming ideas into code | Transformando ideas en código",
   learning: "Always exploring new technologies | Siempre explorando nuevas tecnologías",
   hobbies: ["Coding 💻", "Problem solving 🧩", "Peruvian cuisine 🍛", "Gaming 🎮"]
 }
-💻 Languages and Tools | Lenguajes y Herramientas:
+```
+
+## 💻 Languages and Tools | Lenguajes y Herramientas:
 <div align="center">
-Show Image
+  
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,react,js,html,css,py,unity,blender)](https://skillicons.dev)
+
 </div>
-📊 Stats | Estadísticas:
+
+## 📊 Stats | Estadísticas:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitio123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
-🌟 Projects | Proyectos:
+
+## 🌟 Projects | Proyectos:
 <table>
   <tr>
     <td width="50%">
@@ -52,7 +61,8 @@ Show Image
     </td>
   </tr>
 </table>
-🌎 Connect with me | Conéctate conmigo:
+
+## 🌎 Connect with me | Conéctate conmigo:
 <div align="center">
   <a href="https://linkedin.com/in/vitio123">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -64,14 +74,17 @@ Show Image
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-🌮 Fun fact | Dato curioso:
+
+## 🌮 Fun fact | Dato curioso:
 <div align="center">
-
-"I code with a cup of Peruvian coffee ☕ and ceviche inspiration 🐟" <br>
-"Programo con una taza de café peruano ☕ e inspiración de ceviche 🐟"
-
+  
+  > "I code with a cup of Peruvian coffee ☕ and ceviche inspiration 🐟" <br>
+  > "Programo con una taza de café peruano ☕ e inspiración de ceviche 🐟"
+  
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Peruvian Food" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vitio123&color=green" alt="Profile views" />
