@@ -75,11 +75,8 @@ const vitio = {
   </a>
 </div>
 
-## 🌮 Fun fact | Dato curioso:
+
 <div align="center">
-  
-  > "I code with a cup of Peruvian coffee ☕ and ceviche inspiration 🐟" <br>
-  > "Programo con una taza de café peruano ☕ e inspiración de ceviche 🐟"
   
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Peruvian Food" />
 </div>
