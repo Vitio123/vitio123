@@ -26,42 +26,6 @@ const vitio = {
   <img src="https://github-readme-stats.vercel.app/api?username=vitio123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🌟 Projects | Proyectos:
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1 | Proyecto 1</h3>
-      <div align="center">
-        <a href="https://github.com/vitio123/project1"><img src="https://dummyimage.com/600x300/000/fff&text=Project+1" width="400" alt="Project 1"/></a>
-        <p>
-          <a href="https://github.com/vitio123/project1">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="https://project1-demo.com">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=vercel" />
-          </a>
-        </p>
-        <p><strong>Technologies used | Tecnologías usadas:</strong> Java, React, PostgreSQL</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2 | Proyecto 2</h3>
-      <div align="center">
-        <a href="https://github.com/vitio123/project2"><img src="https://dummyimage.com/600x300/000/fff&text=Project+2" width="400" alt="Project 2"/></a>
-        <p>
-          <a href="https://github.com/vitio123/project2">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github" />
-          </a>
-          <a href="https://project2-demo.com">
-            <img src="https://img.shields.io/badge/Demo-blue?style=for-the-badge&logo=vercel" />
-          </a>
-        </p>
-        <p><strong>Technologies used | Tecnologías usadas:</strong> Python, Unity, Blender</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 ## 🌎 Connect with me | Conéctate conmigo:
 <div align="center">
   <a href="https://linkedin.com/in/vitio123">
